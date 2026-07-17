@@ -1,7 +1,7 @@
 var rule = {
     title: '爱看机器人[虫]',
-    // host:'https://v.ikanbot.com',
-    host: 'https://v.aikanbot.com',
+    // host:'https://www.ikanbot.com',
+    host: 'https://www.ikanbot.com',
     url: '/hot/index-fyclass-fyfilter-p-fypage.html[/hot/index-fyclass-fyfilter.html]',
     //https://www.ikanbot.com/search?q=%E6%96%97%E7%BD%97%E5%A4%A7&p=2
     // searchUrl:'/search?q=**&p=fypage',
@@ -10,7 +10,7 @@ var rule = {
     quickSearch: 0,
     filterable: 1,
     filter_url: '{{fl.tag}}',
-    图片来源: '@Referer=https://v.ikanbot.com/@User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36',
+    图片来源: '@Referer=https://www.ikanbot.com/@User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36',
     filter: {
         "movie": [{
             "key": "tag",
