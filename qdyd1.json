@@ -218,7 +218,7 @@
   { "name": "📺飘零", "api": "https://p2100.net/api.php/provide/vod/from/ikm3u8/" },
   { "name": "📺越南", "api": "https://vnzyz.com/api.php/provide/vod/" },
   { "name": "📺精品", "api": "https://jipinvip1.com/api.php/provide/vod/" },
-  { "name": "📺央视", "api": "https://catbox.n13.club/18/央视影视.php" },
+  { "name": "📺maflya", "api": "https://t4.maflya.com" },
   { "name": "📺速播", "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8/" },
   { "name": "📺麻豆", "api": "http://chujia.cc/api.php/provide/vod/" },
   { "name": "📺西瓜", "api": "https://caiji.xgzyapi.com/api.php/provide/vod/" },
